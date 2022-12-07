@@ -10,7 +10,7 @@
 </p>
 
  [AUTOMATIC1111'S REPO] https://github.com/AUTOMATIC1111/stable-diffusion-webui
-** so you can do it too! **
+**so you can do it too!**
 
 To Do:
 - [x] Link Stable Diffusion repo
