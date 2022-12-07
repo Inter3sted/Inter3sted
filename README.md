@@ -1,5 +1,5 @@
 ## These are some images that were created using Stable Diffusion:
-> prompt: A city and melancholic environment, architecture, in the style of 5 Centimeters per Second, Makoto Shinkai, Seike Yukiko
+> Prompt: A city and melancholic environment, architecture, in the style of 5 Centimeters per Second, Makoto Shinkai, Seike Yukiko
 
 <p align="center">
   <img src=https://user-images.githubusercontent.com/110436939/206059822-f123d5f9-bf19-4c85-bda9-7a04a223a586.png />
