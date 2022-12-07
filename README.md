@@ -1,3 +1,5 @@
+# A little about myself and what I'm working on
+
 ## These are some images that were created using Stable Diffusion:
 > Prompt: A city and melancholic environment, architecture, in the style of 5 Centimeters per Second, Makoto Shinkai, Seike Yukiko
 
