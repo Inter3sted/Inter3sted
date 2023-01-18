@@ -16,3 +16,5 @@ To Do:
 - [x] Link Stable Diffusion repo
 - [ ] Understand prompts
 - [ ] Write better prompts
+
+[!Inter3sted's Holopin board](https://holopin.io/api/user/board?user=inter3sted)](https://holopin.io/@inter3sted)
