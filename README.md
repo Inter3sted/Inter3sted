@@ -17,4 +17,4 @@ To Do:
 - [ ] Understand prompts
 - [ ] Write better prompts
 
-[!Inter3sted's Holopin board](https://holopin.io/api/user/board?user=inter3sted)](https://holopin.io/@inter3sted)
+[![An image of @inter3sted's Holopin badges](https://holopin.me/inter3sted)](https://holopin.io/@inter3sted)
